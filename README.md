@@ -6,6 +6,10 @@ Application with GUI that allows users to input an image or folder of images to 
 
 https://app.roboflow.com/research-and-projects/annulation-region-detection/1
 
+Here is the link to OneDrive in case you want to download the machine learning model:
+
+https://uncg-my.sharepoint.com/:f:/g/personal/saguerra_uncg_edu/EtQhsA_CGE9DspB5XQA9OjEBZO64-i0xgoQ3JEBLf1CJ4A?e=Mn5N70
+
 ## annulation-detection
 
 This is a sub-application which is still independent from the original application, but detects annulation regions with a specific threshold that is chosen by the user. It can then annotate the images and save them to another folder. This is useful as it allows images to be separated for training purposes in the future.
